@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.admin {
+    color: dodgerblue;
+}
+
+.ha {
+    color: blueviolet;
+}
+
+section {
+    display: flex;
+}
+
+.karim {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.karim img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, blue);
+    padding: 10px 40px;
+    color: rgb(255, 250, 250);
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.top {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
